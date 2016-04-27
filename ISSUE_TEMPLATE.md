@@ -1,18 +1,11 @@
 
     Summary:
     
-    Component:
-    
-    Version:
-    
-    OS:
-    
-    Description:
-    
     Steps to Reproduce: 
-    1) 
-    2)
+    1)
     
     Actual Results:
     
     Expected Results:
+
+    Version:
